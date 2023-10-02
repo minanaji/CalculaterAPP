@@ -13,3 +13,18 @@ C:\Users\mnaji\WPF Udemy Course\Example from Udemy course\Example from Udemy cou
 C:\Users\mnaji\WPF Udemy Course\Example from Udemy course\Example from Udemy course\obj\Debug\Example from Udemy course.csproj.CoreCompileInputs.cache
 C:\Users\mnaji\WPF Udemy Course\Example from Udemy course\Example from Udemy course\obj\Debug\Example from Udemy course.exe
 C:\Users\mnaji\WPF Udemy Course\Example from Udemy course\Example from Udemy course\obj\Debug\Example from Udemy course.pdb
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\bin\Debug\Example from Udemy course.exe.config
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\bin\Debug\Example from Udemy course.exe
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\bin\Debug\Example from Udemy course.pdb
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.csproj.AssemblyReference.cache
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\MainWindow.g.cs
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\App.g.cs
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course_MarkupCompile.cache
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course_MarkupCompile.lref
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\MainWindow.baml
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.g.resources
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example_from_Udemy_course.Properties.Resources.resources
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.csproj.GenerateResource.cache
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.csproj.CoreCompileInputs.cache
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.exe
+C:\Users\mnaji\WPF Udemy Course\CalculaterAPP\Example from Udemy course\obj\Debug\Example from Udemy course.pdb
