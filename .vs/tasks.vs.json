@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Example from Udemy course",
+      "appliesTo": "Example from Udemy course/",
+      "type": "launch"
+    }
+  ]
+}
